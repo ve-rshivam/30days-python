@@ -6,4 +6,4 @@ def math_ops():
     print(a + b)
     print(a - b)
     print(a * b)
-math_ops()    
+math_ops() 
