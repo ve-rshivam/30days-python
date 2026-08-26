@@ -25,3 +25,10 @@ print(company.find(sub_string))                 # if coding is found in word the
 print(company.replace('Coding', 'Python'))      # it will replace 'Coding' to 'Python'
 print(company.replace('All', 'Everyone'))       # it will replace 'All' to 'Everyone'
 print(company.split())                          # it will split all the word of company into seprate using 'commas'
+
+# What is the character at index 0 in the string Coding For All.
+# What is the last index of the string Coding For All.
+# What character is at index 10 in "Coding For All" string.
+print(company[:1])                              # index value 1 is here for upto
+print(company.rfind('l'))                       # it gives the last index value of company i.e. 13
+print(repr(company[10]))                        # use for making space visible  by using this we can print the value of index 10
