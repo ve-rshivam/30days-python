@@ -6,3 +6,8 @@ word4 = 'Python'
 space = ' '
 sentence = word1 + space + word2 + space + word3 + space + word4
 print(sentence)
+
+# Using join function
+word = ['Thirty', 'Days', 'Of', 'Python']
+sentence1 = ' '.join(word)
+print(sentence1)
