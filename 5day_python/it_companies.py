@@ -87,4 +87,4 @@ print(it_companies)
 # Destroy the IT companies list
 it_companies = ['Facebook', 'Microsoft', 'Accenture', 'TCS', 'IBM', 'Oracle', 'Amazon', 'Capgemini']
 del it_companies
-# print(it_companies)               # now it will give a
+# print(it_companies)               # now it will give a NameError
