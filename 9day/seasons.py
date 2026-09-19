@@ -12,4 +12,4 @@ elif month == 'march' or month == 'april' or month == 'may':
 elif month == 'june' or month == 'july' or month == 'august':
     print('This is summer.')
 else:
-    print('Invalid month entered.')           
+    print('Invalid month entered.')          
