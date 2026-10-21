@@ -3,4 +3,4 @@ for i in range(1,101):
         pass
     else:
         print(i)
-print("Get Lost")        
+print("Get Lost")
